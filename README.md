@@ -1,2 +1,9 @@
 # Trench Run 3D Game
-Uploading coming soon!
+
+## Development Stack for creating the game
+### Programming
+- C-sharp along with Visual Studio Editor
+
+### Design and Game Engine Used
+- Blender
+- Unity
