@@ -1,2 +1,2 @@
-# Simple-Galactica3D-Game
+# Trench Run 3D Game
 Uploading coming soon!
